@@ -11,4 +11,4 @@ Just download the release of this repository and copy it to the Plugins subfolde
 
 ## Development
 
-This is currently an alfa version binary-only release of the Unreal Engine 4 plugin supporting only Win64 platfrom. Ecah engine version is supported in its own branch that is released on the release page. It is primarly intended for testing and evaluation purposes and is provided under the terms of the [EULA](License.md). 
+This is currently an alpha version binary-only release of the Unreal Engine 4 plugin supporting only Win64 platform. Each engine version is supported in its own branch that is released on the release page. It is primarily intended for testing and evaluation purposes and is provided under the terms of the [EULA](License.md). 
